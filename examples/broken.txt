@@ -1,0 +1,11 @@
+# deliberately broken plan to show line-numbered errors
+title: Lakeside talk
+source: 1080 25
+duration: 45 minutes
+segment: 6 s
+gop: 2 s
+audio: loud
+rung 720p 720 30 3000
+rung 720p 480 30 1400
+rung 1080p 1080 25
+bitrate: 900

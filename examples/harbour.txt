@@ -1,0 +1,14 @@
+# ladderkit plan: one file per title.
+title: Harbour walk-through
+source: 2160 50
+duration: 1:12:30
+segment: 6 s
+gop: 2 s
+audio: 128 kbps
+aspect: 16:9
+headroom: 1.25
+
+rung 1080p 1080 50 6000
+rung 720p 720 30 3000
+rung 480p 480 30 1400
+rung 360p 360 30 800
